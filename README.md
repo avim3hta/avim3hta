@@ -10,12 +10,12 @@ Programming Languages: Python, Java, C<br>Web Development: JavaScript, React, CS
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avi-meh/) 
 
-hide=jupyter%20notebook
+
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avim3hta&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avim3hta&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avim3hta&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avim3hta&icon=0&color=0)](https://visitcount.itsvg.in)
