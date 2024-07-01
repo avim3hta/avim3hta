@@ -10,6 +10,8 @@ Programming Languages: Python, Java, C<br>Web Development: JavaScript, React, CS
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avi-meh/) 
 
+hide=jupyter%20notebook
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avim3hta&theme=highcontrast&hide_border=false)<br/>
